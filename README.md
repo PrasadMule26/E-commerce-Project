@@ -1,2 +1,2 @@
 # E-commerce-Project
-This e-commerce project is built using the MERN stack.
+In an ecommerce application built with the MERN stack, users can browse products, add items to their shopping carts, proceed to checkout, and manage their orders. The frontend, developed using React, provides a responsive and intuitive user experience, while the backend, powered by Express.js and Node.js, handles data storage, retrieval, and business logic. MongoDB serves as the database to store product information, user details, and ensuring scalability and flexibility for the ecommerce platform.
